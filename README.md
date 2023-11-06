@@ -1,15 +1,16 @@
 ## About
 
-In January 2024, I will join the Chemical Engineering Department at UT Austin as an Assistant Professor.
+I am an Assistant Professor in the Chemical Engineering Department at UT Austin.
+My theoretical research group broadly focuses on understanding various soft and living matter systems over a wide range of length and time scales.
 Please see the <a href="https://sahu-lab.github.io" target="_blank">Sahu Lab</a> website for more info.
 <br>
 
-As a postdoc, I currently develop theories of neurons and the nervous system.
-I work with Prof. <a href="https://physiology.med.cornell.edu/people/emre-aksay-ph-d/" target="_blank">Emre Aksay</a> in the Physiology &amp; Biophysics Department at Weill Cornell Medicine.
+As a postdoc, I worked with Prof. <a href="https://physiology.med.cornell.edu/people/emre-aksay-ph-d/" target="_blank">Emre Aksay</a> in the Physiology &amp; Biophysics Department at Weill Cornell Medicine.
+We developed theories of electrically excitable biological membranes, with applications to neurons and the nervous system.
 <br>
 
 During my PhD, I worked with Prof. <a href="http://www.cchem.berkeley.edu/kranthi/" target="_blank">Kranthi Mandadapu</a>
-to develop theories and numerical methods describing biological membranes.
+to develop mechanical and hydrodynamic theories, as well as numerical methods, of biological membranes.
 I collaborated with Dr. <a href="https://www.researchgate.net/profile/Joel_Tchoufag" target="_blank">Jo&euml;l Tchoufag</a>, Yannick Omar, <a href="https://alec-glisman.github.io/" target="_blank">Alec Glisman</a>, and Prof. <a href="https://www.takatorilab.com/group" target="_blank">Sho Takatori</a>.
 <br>
 
